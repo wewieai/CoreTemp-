@@ -1,0 +1,1 @@
+echo %date% %time% 过热关机 >> .\Thermal_Test.txt
